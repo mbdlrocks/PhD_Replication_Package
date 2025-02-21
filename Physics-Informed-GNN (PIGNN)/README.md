@@ -24,3 +24,18 @@ This repository contains the dataset, preprocessing scripts, pretrained model we
 2. Extract the preprocessed dataset from `_data_.zip`.
 3. Load the pretrained model weights from `Weights/` or train a new model using `PIGNN_Replication_Code.ipynb`.
 
+## Results
+![ROC-AUC Scores](Exports/paperfig.png)
+
+## Citation
+
+If you use this dataset or code, please cite the following works:
+
+```
+@article{francois2025physics,
+  title={Physics Informed Graph Neural Networks for Attack Path Prediction},
+  author={François, Marin and Arduin, Pierre-Emmanuel and Merad, Myriam},
+  journal={arXiv preprint},
+  year={2025},
+}
+```
