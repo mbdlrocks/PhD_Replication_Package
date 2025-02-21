@@ -29,7 +29,7 @@ This repository contains datasets, pretrained models, and replication code for t
 
 ## Results
 
-![Description](Exports/paperfigchmm.png)
+![Description](Exports/paperfig.jpg)
 
 ## Citation
 
