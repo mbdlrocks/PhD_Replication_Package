@@ -27,6 +27,10 @@ This repository contains datasets, pretrained models, and replication code for t
 2. Load the pre-trained models from the respective directories or train new models using the provided dataset.
 3. Run `Replication-Code.ipynb` to reproduce the experiments described in the paper.
 
+## Results
+
+![Description](Exports/paperfigchmmm.png)
+
 ## Citation
 
 If you use this dataset, please cite the following works:
