@@ -19,7 +19,7 @@ Formally, the dataset is structured as:
 - $X_i = (A_i, F_i)$, where:
   - $A_i \in \mathbb{R}^{|V| \times |V| \times d}$ is the adjacency tensor with $d = 16$ edge types.
   - $F_i \in \mathbb{R}^{|V| \times p}$ is the feature matrix with $p = 20$ node features.
-- $ Y_i \in \mathbb{R}^{|V| \times |V|} \)$, where $Y_{ij} = 1$ if an edge between nodes $i\rightarrow j$ is part of an attack path.
+- $Y_i \in \mathbb{R}^{|V| \times |V|}$, where $Y_{ij} = 1$ if an edge between nodes $i\rightarrow j$ is part of an attack path.
 
 ## Node Features
 Each node in the graph is represented by a feature vector, capturing:
