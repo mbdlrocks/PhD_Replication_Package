@@ -77,4 +77,12 @@ This dataset is intended for research in:
 ## Citation
 If you use this dataset, please cite the following works:
 
+```
+@article{francois2025physics,
+  title={Physics Informed Graph Neural Networks for Attack Path Prediction},
+  author={François, Marin and Arduin, Pierre-Emmanuel and Merad, Myriam},
+  journal={arXiv preprint},
+  year={2025},
+}
+```
 
