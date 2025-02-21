@@ -1,5 +1,3 @@
-# DATACARD.md
-
 ## Dataset Overview
 This dataset contains graph-based representations of Active Directory (AD) environments, structured to support statistical learning of attack paths within networks. Each graph represents an AD environment, where nodes correspond to various entities (e.g., users, computers, domains), and edges encode relationships and privileges. The dataset is designed for machine learning tasks such as attack path prediction and node classification.
 
