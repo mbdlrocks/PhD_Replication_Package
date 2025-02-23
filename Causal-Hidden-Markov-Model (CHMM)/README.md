@@ -21,6 +21,9 @@ This repository contains datasets, pretrained models, and replication code for t
 - `Replication-Code.ipynb`  
   Jupyter Notebook containing the replication code for implementing and evaluating the proposed algorithms.
 
+- `_DeepCausality_`
+  Our modified version of the DeepIDS network intrusion detection system, improved using our causal inference algorithm.
+
 ## Usage
 
 1. Clone this repository
