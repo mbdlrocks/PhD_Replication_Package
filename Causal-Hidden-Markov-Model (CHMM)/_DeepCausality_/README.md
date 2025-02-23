@@ -20,17 +20,16 @@ The original IDS has been modified and improved using out L2 Causal inference ba
 
 ## Repository Structure
 
-- **`Pre-trained Models/`** – Contains both non-causal and causal DeepIDS models.
-- **`Sample Dataset/`** – Provides the dataset for replication and experimentation.
-- **`Preprocessing.ipynb`** – Jupyter Notebook for data preprocessing.
-- **`DeepCausalityIDS_Replication.ipynb`** – Jupyter Notebook containing the replication code for implementing and evaluating the proposed algorithms.
+- **`_data_.tar.xz`** – Provides the dataset for replication and experimentation.
+- **`_Preprocessing_.ipynb`** – Jupyter Notebook for data preprocessing.
+- **`_DeepCausalityIDS_Replication_.ipynb`** – Jupyter Notebook containing the replication code for implementing and evaluating the proposed algorithms.
 - **`Figures/`** – Directory containing key result visualizations.
 
 ## Usage
 1. Clone this repository.
 2. Extract the dataset from `data.tar.xz`.
 3. Load the pre-trained models from `Pre-trained Models/` or train new models using the provided dataset.
-4. Run `DeepCausalityIDS_Replication.ipynb` to reproduce the experiments described in the paper.
+4. Run `_DeepCausalityIDS_Replication_.ipynb` to reproduce the experiments described in the paper.
 
 ## Results
 Below are two key ROC curve plots demonstrating the performance improvements:
