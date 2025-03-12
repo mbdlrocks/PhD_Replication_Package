@@ -2,7 +2,7 @@
 
 This repository contains datasets, pretrained models, and replication code for the paper:
 
-"Unmasking Illusions: Enhancing Deep Learning IDS Adversarial Robustness With Causal Inference"
+"Enhancing Deep Learning Based IDS Adversarial Robustness With Causal Inference"
 
 ## Repository Structure
 
