@@ -18,6 +18,9 @@ This repository contains the dataset, preprocessing scripts, pretrained model we
 - `PIGNN_Replication_Code.ipynb`  
   Jupyter Notebook with the replication code for building, training, and evaluating the models.
 
+- `_visulisations_.ipynb`
+  Jupyter Notebook with the code for EDA plots
+
 ## Usage
 
 1. Clone this repository
